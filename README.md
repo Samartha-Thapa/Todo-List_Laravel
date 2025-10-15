@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -59,3 +60,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Project Name
+TodoList App - Laravel
+
+# Overview
+This is the backend API for the ToDoList App, built using Laravel.
+It provides endpoints for user authentication and task management (create, read, update, delete).
+
+# Tech Stack
+Framework: Laravel
+Auth: Laravel Sanctum
+Database: MySQL
+Language: PHP
+
+# Features
+Register & Login using Sanctum
+CRUD operations for tasks
+Each user's tasks are private
+CORS-enabled for frontend connection
+>>>>>>> f2a3d44e1cd56bb64feedfdeb0b8a0b4830ff389
